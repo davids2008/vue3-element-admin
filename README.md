@@ -145,6 +145,7 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
   - Dynamic Table
   - Drag And Drop Table
   - Inline Edit Table
+  - Uses our open source grid library [VueGrid](./docs/grid.md) instead of Handsontable
 
 - Error Page
   - 401
