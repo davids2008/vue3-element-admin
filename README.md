@@ -248,3 +248,5 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
 
 Copyright (c) 2017-present PanJiaChen
+
+更多信息参见 [docs/handsontable.md](docs/handsontable.md)。
